@@ -1,3 +1,3 @@
-# Wedding Day
-提供 我的婚裡記錄及相關資料
-![image](https://github.com/kissLin/Wedding-Day/blob/master/images/Screenshot_20161230-170800.png)
+# line echo bot
+一個line echo 聊天機器人測試
+![image](https://github.com/kissLin/line-echo-bot-starter/blob/master/Screenshot_20180711-150427.png)
