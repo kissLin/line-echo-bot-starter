@@ -1,0 +1,19 @@
+{
+  "name": "fb-echo-chatbot",
+  "version": "1.0.0",
+  "description": "Facebook messenger chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": "git@github.com:ntu-csie-train/facebook-messenger-echo-bot.git",
+  "license": "MIT",
+  "author": "GGM Kuo",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botimize": "^0.4.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
